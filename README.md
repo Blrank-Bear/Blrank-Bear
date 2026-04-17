@@ -1,122 +1,124 @@
-<!-- 🔥 Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Carmon+👋;Backend+Developer+🚀;Node.js+%7C+Java+%7C+Python;Building+Scalable+Systems;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Carmon;Backend+Developer;Node.js+%7C+Java+%7C+Python;Building+Scalable+Systems;Always+Learning+New+Things" />
 </p>
 
 ---
 
-# 👋 Hi, I'm Carmon
 
-💼 Backend Developer with 5+ years of experience  
-🚀 متخصص in scalable systems, APIs, and performance optimization  
-🌍 Passionate about clean architecture & problem-solving  
+✔ Backend Developer with 5+ years of experience
 
----
+✔ Expertos en sistemas escalables, API y optimización del rendimiento
 
-## 🧑‍💻 About Me
+✔ Passionate about clean architecture & problem-solving  
 
-- 🔧 I build **high-performance backend systems**
-- ⚡ I optimize APIs and reduce system latency
-- 🧠 Strong in **problem-solving & debugging production issues**
-- 🤝 Experienced working in **team-based environments**
-- 📈 Always learning **system design & cloud technologies**
 
----
+## Tech Stack
 
-## 🛠️ Tech Stack
+<table align="center">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="40"/><br>React</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=redux" width="40"/><br>Redux</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="40"/><br>Next.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vue" width="40"/><br>Vue</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nuxtjs" width="40"/><br>Nuxt.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=angular" width="40"/><br>Angular</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="40"/><br>NestJS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" width="40"/><br>Express</td>
+</tr>
 
-### 🚀 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=svelte" width="40"/><br>Svelte</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=wordpress" width="40"/><br>WordPress</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" width="40"/><br>TypeScript</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php" width="40"/><br>PHP</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=laravel" width="40"/><br>Laravel</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="40"/><br>Python</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=django" width="40"/><br>Django</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flask" width="40"/><br>Flask</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ruby" width="40"/><br>Ruby</td>
+</tr>
 
-### ⚙️ Backend & Frameworks
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=d3" width="40"/><br>D3.js</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=materialui" width="40"/><br>Material UI</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sass" width="40"/><br>Sass</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>Bootstrap</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=babel" width="40"/><br>Babel</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=threejs" width="40"/><br>Three.js</td>
+</tr>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D32F2F?style=for-the-badge&logo=redis&logoColor=white)
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="40"/><br>AWS</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>MySQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="40"/><br>PostgreSQL</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="40"/><br>SQLite</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="40"/><br>Flutter</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="40"/><br>Android</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=java" width="40"/><br>Java</td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="40"/><br>C#</td>
+</tr>
+</table>
 
-### 🔧 Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## Featured Projects
 
----
+<table>
+<tr>
+<td align="center" width="33%">
 
-## 📊 GitHub Stats
+### 🛒 E-Commerce Backend  
+**Node.js | Express | Redis | MySQL**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" height="160"/>
-</p>
+✔ Scalable REST APIs  
+✔ 40% performance improvement  
+✔ Redis caching  
+✔ Secure authentication  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight"/>
-</p>
+</td>
 
----
+<td align="center" width="33%">
 
-## 🚀 Featured Projects
+### 🔔 Notification System  
+**Python | Message Queue**
 
-### 🛒 E-Commerce Backend
-- Built scalable APIs using Node.js  
-- 🚀 Improved performance by **40%** using Redis caching  
-- Designed authentication, orders, and product services  
+✔ Event-driven architecture  
+✔ Async background processing  
+✔ Reduced server load  
+✔ Real-time updates  
 
----
+</td>
 
-### 🔔 Real-Time Notification System
-- Built async system using Python & message queues  
-- ⚡ Reduced server load & improved delivery speed  
+<td align="center" width="33%">
 
----
+### 💳 Payment Microservice  
+**Java | Spring Boot**
 
-### 💳 Payment Microservice
-- Built with Java (Spring Boot)  
-- 🔒 Secure and reliable transaction handling  
+✔ Secure transactions  
+✔ Logging & monitoring  
+✔ Error handling  
+✔ Scalable architecture  
 
----
-
-## 🧠 What Makes Me Different
-
-✔ Strong debugging skills (production-level issues)  
-✔ Performance optimization mindset  
-✔ Clean & scalable code architecture  
-✔ Ownership & accountability  
-
----
-
-## 🌱 Currently Learning
-
-- ☁️ AWS / GCP  
-- 🧩 System Design (High Scale Systems)  
-- ⚙️ Microservices & Distributed Systems  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Fun Fact
+## What Makes Me Different
 
-I enjoy turning slow systems into high-performance applications 🚀  
+<table>
+<tr>
+<td align="center"> Impact-driven mindset</td>
+<td align="center"> Strong debugging skills</td>
+<td align="center"> Performance optimization</td>
+<td align="center"> Scalable architecture</td>
+<td align="center"> Ownership mentality</td>
+</tr>
+</table>
 
 ---
 
