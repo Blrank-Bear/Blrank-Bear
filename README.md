@@ -1,70 +1,29 @@
-# 👋 Hi, I'm Carmon
-
-🚀 Backend Developer | Node.js | Java | Python  
-💡 Passionate about building scalable and efficient systems  
-
----
-
-## 🧑‍💻 About Me
-
-I am a backend developer with around 5 years of experience in designing, developing, and optimizing scalable applications. I specialize in building RESTful APIs, working with databases, and improving system performance.
-
-I enjoy solving complex problems, writing clean and maintainable code, and continuously learning new technologies.
-
----
-
 ## 🛠️ Tech Stack
 
-- **Languages:** Node.js (JavaScript), Java, Python  
-- **Backend:** Express.js, Spring Boot  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Technologies:** Git, Docker, REST APIs  
-- **Concepts:** Microservices, System Design, API Development  
+### 🚀 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📌 Projects
-
-### 🔹 E-Commerce Backend System
-- Developed RESTful APIs for product, user, and order management  
-- Optimized database queries and improved performance by 40%  
-- Implemented caching using Redis  
-
-### 🔹 Real-Time Notification System
-- Built asynchronous processing using message queues  
-- Improved system reliability and reduced load  
-- Enabled real-time user updates  
-
-### 🔹 Payment Microservice
-- Developed using Java (Spring Boot)  
-- Focused on secure and reliable transaction handling  
-- Implemented logging and error handling  
+### ⚙️ Backend & Frameworks
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
-## 📈 Strengths
-
-- Problem-solving and analytical thinking  
-- Performance optimization  
-- Clean and maintainable code  
-- Team collaboration  
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D32F2F?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced System Design  
-- Cloud Technologies (AWS, GCP)  
-- Scalable Microservices Architecture  
-
----
-
-## 📫 Contact Me
-
-- Email: your-email@example.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
-
----
-
-⭐️ Feel free to check out my repositories and connect with me!
+### 🔧 Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=apachekafka&logoColor=white)
